@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="greeting_message">Hello, %s</string>
+    <string name="enter_name_warning">Tolong Masukan Nama</string>
+    <string name="hint_enter_name">Masukan Nama</string>
+    <string name="button_say_hello">SAY HELLO</string>
+</resources>
